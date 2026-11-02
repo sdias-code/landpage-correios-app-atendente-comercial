@@ -210,6 +210,56 @@ h2 {
     color: var(--accent-gold);
 }
 
+/* DISCIPLINAS (#disciplinas) — cards espelham a tela "Conteúdo do app" */
+#disciplinas .grupo-titulo {
+    text-align: center;
+    font-size: 1.5rem;
+    color: var(--accent-gold);
+    margin: 40px 0 20px;
+    text-transform: uppercase;
+}
+
+#disciplinas .grupo-titulo:first-of-type {
+    margin-top: 0;
+}
+
+#disciplinas .grupo-resumo {
+    display: block;
+    font-size: 0.95rem;
+    font-weight: normal;
+    color: var(--text-muted);
+    text-transform: none;
+    margin-top: 6px;
+}
+
+#disciplinas .feature-card {
+    text-align: left;
+    padding: 24px 26px;
+}
+
+#disciplinas .feature-card h4 {
+    font-size: 1.1rem;
+    margin-bottom: 12px;
+    color: var(--accent-gold);
+    line-height: 1.4;
+}
+
+#disciplinas .modulos-lista {
+    margin: 0;
+    padding: 0 0 0 1.25rem;
+}
+
+#disciplinas .modulos-lista li {
+    font-size: 0.95rem;
+    line-height: 1.55;
+    margin-bottom: 8px;
+    padding-left: 4px;
+}
+
+#disciplinas .modulos-lista li:last-child {
+    margin-bottom: 0;
+}
+
 /* SHOWCASE */
 .showcase-row {
     display: flex;

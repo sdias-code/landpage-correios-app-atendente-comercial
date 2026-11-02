@@ -6,10 +6,10 @@ Landing page do aplicativo **Correios Atendente Simulados** para concurso de Ate
 
 - **Hero** — Apresentação do app com links para a Google Play e planos
 - **Módulos** — Como o app pode acelerar a aprovação
-- **Disciplinas** — As 8 disciplinas cobradas nos Correios
+- **Disciplinas** — As 26 disciplinas do edital (130 módulos, 1.300 questões), no formato da tela Conteúdo do app
 - **Dinâmica** — Metodologia de estudo ativo com questões comentadas
 - **Offline** — Banco de dados SQLite integrado, funciona sem internet
-- **Planos** — Mensal (R$ 9,99), Anual (R$ 19,99) e Vitalício (R$ 34,99)
+- **Planos** — Mensal (R$ 14,90), Anual (R$ 29,90) e Vitalício (R$ 49,90)
 - **Carrossel** — Galeria de telas do aplicativo (placeholder até os prints oficiais)
 - **FAQ** — Perguntas frequentes sobre justificativas, atualizações, modo offline, simulados e planos
 
